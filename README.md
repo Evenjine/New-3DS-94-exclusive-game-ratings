@@ -1,3 +1,5 @@
+[Chinese(简体中文)](简体中文)
+
 Based on Bilibili content creator "博van小哥哥's" video BV1HP411M7y4, he summarized all the New 3DS exclusive games (excluding some very niche Japanese regional titles). There are 94 New 3DS exclusive games in total, with gameplay demonstrations available on YouTube. Drawing on my years of gaming experience, I've reviewed these gameplay videos and assigned a star rating to each:  
 
 ☆: Garbage  
