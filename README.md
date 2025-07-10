@@ -1,101 +1,120 @@
-根据Bilibili博主博van小哥哥的视频BV1HP411M7y4，他总结出了new系列限定的3ds所有游戏(可能还会有一些日区特别的小游戏基本不在考虑范围)，这94款new系列限定游戏，在国内外视频平台都有实机演示，根据本人多年游戏经验对这些游戏试玩视频进行鉴赏，每个都打出了星级，☆的为垃圾，★各方面都差不值得玩，★★游戏性比较差，★★★优质小众游戏，★★★★受众很多的优质游戏，★★★★★优质大作。
+Based on Bilibili content creator "博van小哥哥's" video BV1HP411M7y4, he summarized all the New 3DS exclusive games (excluding some very niche Japanese regional titles). There are 94 New 3DS exclusive games in total, with gameplay demonstrations available on YouTube. Drawing on my years of gaming experience, I've reviewed these gameplay videos and assigned a star rating to each:  
 
-90.Xenoblade Chronicles 3D ★★★★★ 异度神剑
-82.The Binding of Isaac: Rebirth ★★★★★ 以撒：重生
-47.Minecraft: New Nintendo 3DS Edition ★★★★★ 我的世界
-25.Fire Emblem Warriors ★★★★ 火焰纹章：无双，割草游戏，因为是大牌子给4星
-91.Za baindingu obu - Aizakku: Ribāsu ★★★★ 以撒：逆转，只有日文版
-7.Back in 1995 64 ★★★ 3D恐怖解密游戏，有英文版，游戏性尚可，喜欢玩恐怖游戏的不要错过
-87.War & Romance Visual Novel ★★★ 配音小说，日文配音，日英字幕
-88.Wind-up Knight 2 ★★★ 发条骑士
-89.Without Escape ★★★ 解密游戏
-57.Phasmophobia: Hall of Specters 3D ★★★ 恐鬼症 画面很糟糕，但是有人喜欢，steam高清版的比这个香太多
-58.Physical Contact: 2048 ★★★
-59.Physical Contact: Picture Place ★★★
-48.Mini Mario and Friends amiibo Challenge(Amiibo required) ★★★ 迷你马里奥与朋友们的amiibo挑战，有amiibo才能玩
-60.Physical Contact: SPEED ★★★
-40.Hyperlight EX ★★★ 射击追逐类，非主流
-1.36 Fragments of Midnight ★★ 横板吃碎片的游戏，难度高游戏性差，无聊无趣。
-22.Doragonfangu - ryū-sha doran to toki no meikyū ★★ 游戏性一般，只有日文版
-23.Doragonfangu Z - ryū-sha roze to yadorigi no meikyū ★★ 游戏性一般，只有日文版
-15.Cazzarion Adventureland ★★ 横板过关，有一定的游戏性但不多，不建议玩或者说谨慎玩
-71.Silver Falls 3 Down Stars ★★
-72.Sketchy Snowboarding ★★
-64.Pixel Hunter ★★
-67.Runbow Pocket ★★
-68.Runbow Pocket Deluxe Edition ★★
-56.Percy's Predicament Deluxe ★★
-61.Pinball Breakout ★★ 弹力球
-69.Scoop'n Birds ★★
-74.Small World Z ★★
-75.SNES Emulator(Virtual Console) ★★
-77.Stack 'em High ★★
-93.Zeus Quest Remastered ★★ 比较抽象的游戏
-43.Kai zo ku poppu ★★ 海贼王格斗
-44.Lifespeed ★★ 飞行游戏
-46.Mama ni gēmu kakusareta ★★ 我妈妈把我的游戏藏起来了，只有日文
-4.Alter World ★ 独立开发游戏，有点美工但不多，游戏性很差，完全不值得玩
-6.B.O.O.L: Meistere Labyrinth-Rätsel ★ 垃圾“益智”游戏
-16.Christmas Night Archery ★
-26.FOUR BOMBS ★ 扫雷
-27.Frutakia2 ★
-86.Vera Swings ★
-92.ZARA the Fastest Fairy ★ 跑酷
-28.Futuridium EP Deluxe ★ 垃圾音游
-35.Harold Reborn ★
-36.Harold's Walk ★
-37.Hit Ninja ★
-39.Horseshoe Crab Rescue! ★
-41.I.F.O ★
-49.Mitchaku taisen 2048 ★
-50.Mitchaku taisen pikupure ★
-51.Mitchaku taisen supīdo ★
-63.Pirate Pop Plus ★
-65.Raining Coins ★
-66.RTO ★
-73.Slime Slayer ★
-76.Soccer Shootout ★
-78.Storm Chaser - Tornado Alley ★
-79.Super Destronaut 3D ★
-80.SWIPE ★
-81.TABLE TENNIS INFINITY ★
-53.Now I know my ABCs 2 ★ 英文字母学习，明显小孩子用的，画面不错
-45.Love Hero ☆ 类似FC小蜜蜂
-29.Gal Galaxy Pain ☆
-42.Infinite Golf ☆
-30.GALAXY BLASTER ☆
-31.GALAXY BLASTER CODE RED ☆
-32.Games for Toddlers 2 ☆
-38.Hiyoko-mamire ☆
-33.GUIDE THE GHOST ☆
-34.Halloween Night Archery ☆
-62.PINK DOT BLUE DOT ☆
-52.NekoBop ☆
-54.Operation COBRA ☆
-55.PENGUIN HOP ☆
-70.Shoot The Ball ☆
-83.The Queen TV-Game 2 ☆
-84.Triple Breakout ☆
-85.Up Up Bot ☆
-94.ZIG ZAG GO ☆
-2.3D Retro Dungeon Puzzle Challenge ☆
-3.6180 the moon ☆
-5.Ascent of Kings ☆
-8.BlockForm ☆ 史上最低分的纯垃圾
-9.BLOK DROP CHAOS ☆
-10.Box Up ☆
-11.Breakout Defense 2 ☆
-12.Brick Race ☆
-13.BRICK THRU ☆
-14.Cazzarion ☆
-17.COLOR CUBES ☆
-18.CUP CRITTERS ☆
-19.Cycle of Eternity: Space Anomaly ☆
-20.DodgeBox ☆
-21.DON'T CRASH GO ☆
-24.FIFTEEN ☆
+☆: Garbage  
+★: Poor in all aspects, not worth playing  
+★★: Gameplay is quite poor  
+★★★: High-quality niche game  
+★★★★: High-quality game with a broad audience  
+★★★★★: High-quality masterpiece  
 
-总结：只有以下游戏值得玩，其他均为垃圾。
-异度神剑、以撒：重生、我的世界、火焰纹章：无双、Back in 1995 64
+90.Xenoblade Chronicles 3D ★★★★★  
+82.The Binding of Isaac: Rebirth ★★★★★  
+47.Minecraft: New Nintendo 3DS Edition ★★★★★  
+25.Fire Emblem Warriors ★★★★ This is a Musou game (or 'Horde-slasher'), gets 4 stars because it's a major franchise.  
+91.Za baindingu obu - Aizakku: Ribāsu ★★★★ This game is only available in Japanese.  
+7.Back in 1995 64 ★★★ A 3D Horror AVG game, available in English. The gameplay is decent, a must-play for horror game enthusiasts.  
+87.War & Romance Visual Novel ★★★ Voice novel game, with Japanese voice acting and English or Japanese subtitles.   
+88.Wind-up Knight 2 ★★★  
+89.Without Escape ★★★ AVG  
+57.Phasmophobia: Hall of Specters 3D ★★★ The graphics in this game are quite poor, but some people enjoy it. The HD version on Steam is significantly better, so I recommend playing it on PC.  
+58.Physical Contact: 2048 ★★★  
+59.Physical Contact: Picture Place ★★★  
+48.Mini Mario and Friends amiibo Challenge(Amiibo required) ★★★  
+60.Physical Contact: SPEED ★★★  
+40.Hyperlight EX ★★★  
+1.36 Fragments of Midnight ★★  
+22.Doragonfangu - ryū-sha doran to toki no meikyū ★★ This game has mediocre gameplay and is only available in Japanese.  
+23.Doragonfangu Z - ryū-sha roze to yadorigi no meikyū ★★ Same as above.  
+15.Cazzarion Adventureland ★★  
+71.Silver Falls 3 Down Stars ★★  
+72.Sketchy Snowboarding ★★  
+64.Pixel Hunter ★★  
+67.Runbow Pocket ★★  
+68.Runbow Pocket Deluxe Edition ★★  
+56.Percy's Predicament Deluxe ★★  
+61.Pinball Breakout ★★ This is a pinball game.  
+69.Scoop'n Birds ★★  
+74.Small World Z ★★  
+75.SNES Emulator(Virtual Console) ★★  
+77.Stack 'em High ★★  
+93.Zeus Quest Remastered ★★ This is a relatively "abstract" game.  
+43.Kai zo ku poppu ★★ This is a One Piece fighting game.  
+44.Lifespeed ★★ A flight game.  
+46.Mama ni gēmu kakusareta ★★ This game is only available in Japanese. The Japanese name is ママにゲーム隠された，The English translation is Mama Hid My Game.  
+4.Alter World ★  
+6.B.O.O.L: Meistere Labyrinth-Rätsel ★  
+16.Christmas Night Archery ★  
+26.FOUR BOMBS ★ A Minesweeper game.  
+27.Frutakia2 ★  
+86.Vera Swings ★  
+92.ZARA the Fastest Fairy ★ A parkour game.  
+28.Futuridium EP Deluxe ★ A rhythm game.  
+35.Harold Reborn ★  
+36.Harold's Walk ★  
+37.Hit Ninja ★  
+39.Horseshoe Crab Rescue! ★  
+41.I.F.O ★  
+49.Mitchaku  taisen 2048 ★  
+50.Mitchaku taisen pikupure ★  
+51.Mitchaku taisen supīdo ★  
+63.Pirate Pop Plus ★  
+65.Raining Coins ★  
+66.RTO ★  
+73.Slime Slayer ★  
+76.Soccer Shootout ★  
+78.Storm Chaser - Tornado Alley ★  
+79.Super Destronaut 3D ★  
+80.SWIPE ★  
+81.TABLE TENNIS INFINITY ★  
+53.Now I know my ABCs 2 ★  
+45.Love Hero ☆ A mini-game similar to Galaxian.  
+29.Gal Galaxy Pain ☆  
+42.Infinite Golf ☆  
+30.GALAXY BLASTER ☆  
+31.GALAXY BLASTER CODE RED ☆  
+32.Games for Toddlers 2 ☆  
+38.Hiyoko-mamire ☆  
+33.GUIDE THE GHOST ☆  
+34.Halloween Night Archery ☆  
+62.PINK DOT BLUE DOT ☆  
+52.NekoBop ☆  
+54.Operation COBRA ☆  
+55.PENGUIN HOP ☆  
+70.Shoot The Ball ☆  
+83.The Queen TV-Game 2 ☆  
+84.Triple Breakout ☆  
+85.Up Up Bot ☆  
+94.ZIG ZAG GO ☆  
+2.3D Retro Dungeon Puzzle Challenge ☆  
+3.6180 the moon ☆  
+5.Ascent of Kings ☆  
+8.BlockForm ☆ The Worst-rated New 3DS exclusive game  
+9.BLOK DROP CHAOS ☆  
+10.Box Up ☆  
+11.Breakout Defense 2 ☆  
+12.Brick Race ☆  
+13.BRICK THRU ☆  
+14.Cazzarion ☆  
+17.COLOR CUBES ☆  
+18.CUP CRITTERS ☆  
+19.Cycle of Eternity: Space Anomaly ☆  
+20.DodgeBox ☆  
+21.DON'T CRASH GO ☆  
+24.FIFTEEN ☆  
 
-其中以撒、我的世界、Back in 1995为多平台游戏（可以在pc等平台玩），无双为割草游戏（不一定人人都喜欢），也就是说只有异度神剑才是真正无解且只能在new3ds或者new2ds上面游玩，如果你也不喜欢异度神剑，那好，直接买台老小三或者2ds就行了（不考虑裸眼3d的话，老小三亮度和视觉体验没有2ds轻松）。
+Summary: Only the following games are worth playing; the rest are considered garbage.  
+Xenoblade Chronicles 3D  
+The Binding of Isaac: Rebirth  
+Minecraft: New Nintendo 3DS Edition  
+Fire Emblem Warriors  
+Back in 1995 64  
+
+Here's the translation:  
+Summary: Only the following games are worth playing; the rest are considered garbage.  
+Xenoblade Chronicles 3D  
+The Binding of Isaac: Rebirth  
+Minecraft: New Nintendo 3DS Edition  
+Fire Emblem Warriors  
+Back in 1995 64  
+
+Among these, The Binding of Isaac, Minecraft, and Back in 1995 are multi-platform games (playable on PC and other systems). Fire Emblem Warriors is a "Musou" (horde-slasher) game, which not everyone enjoys. This means Xenoblade Chronicles 3D is arguably the only truly indispensable title that can only be played on a New 3DS or New 2DS. If you don't care for Xenoblade Chronicles 3D, then an older 3DS (or 2DS) will suffice (assuming you're not considering the naked-eye 3D, as the older 3DS's brightness and visual experience aren't as comfortable as the 2DS).
