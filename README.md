@@ -111,12 +111,4 @@ Minecraft: New Nintendo 3DS Edition
 Fire Emblem Warriors  
 Back in 1995 64  
 
-Here's the translation:  
-Summary: Only the following games are worth playing; the rest are considered garbage.  
-Xenoblade Chronicles 3D  
-The Binding of Isaac: Rebirth  
-Minecraft: New Nintendo 3DS Edition  
-Fire Emblem Warriors  
-Back in 1995 64  
-
 Among these, The Binding of Isaac, Minecraft, and Back in 1995 are multi-platform games (playable on PC and other systems). Fire Emblem Warriors is a "Musou" (horde-slasher) game, which not everyone enjoys. This means Xenoblade Chronicles 3D is arguably the only truly indispensable title that can only be played on a New 3DS or New 2DS. If you don't care for Xenoblade Chronicles 3D, then an older 3DS (or 2DS) will suffice (assuming you're not considering the naked-eye 3D, as the older 3DS's brightness and visual experience aren't as comfortable as the 2DS).
